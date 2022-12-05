@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9552254&assignment_repo_type=AssignmentRepo)
 # Heap sort
 
 You can implement a heap sort using a binary heap where you do not use any extra memory—you can do all the operations in the input list. We are going to do this now, in a few easy steps.
